@@ -1,0 +1,6 @@
+db.moviles.insertOne({"marca": "OPPO", "modelo": "FindX" })
+db.moviles.insertOne({"marca": "Samsung", "modelo": "S20" })
+db.moviles.insertOne({"marca": "Oneplus", "modelo": "8T" })
+db.moviles.insertOne({"marca": "Apple", "modelo": "iPhone12" })
+db.moviles.insertOne({"marca": "Oneplus", "modelo": "Nord" })
+db.moviles.insertOne({"marca": "Xiaomi", "modelo": "Mi10T"})
